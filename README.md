@@ -15,12 +15,9 @@
 
 -	Đáng nhập :
 •	Khách hàng: Khi khách hàng đăng nhập sẽ xuất hiện tên và mục thông tin khách hang, sẽ lưu lại các lịch sử giao dịch và được mua hàng hóa.
-
 •	Admin: khi đăng nhập được mua hàng hóa, xem và quản lý khách hàng, sản phẩm, cập nhật, …
-
 -	Đăng xuất: 
 •	Khách hàng và admin khi đăng nhập đề sẽ đăng xuất ra trang đăng nhập như bình thường nhìn vào.
-
 ### 3.Giao diện:
   #### -Trang chủ cần đăng nhập đầu tiên:
   ![image](https://user-images.githubusercontent.com/101527833/170232785-358ac764-c447-4d88-b457-a0f473e91dab.png)
