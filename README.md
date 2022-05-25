@@ -37,10 +37,12 @@
    + Trang thêm người dùng mới:
    ![image](https://user-images.githubusercontent.com/101527833/170235119-96a237c6-95df-4f06-ba35-e10620d04e44.png)
    
-   +Trang chỉnh sửa lại thông tin người dùng:
+   + Trang chỉnh sửa lại thông tin người dùng:
+   
    ![image](https://user-images.githubusercontent.com/101527833/170235440-77d85f59-2304-4567-897a-0f0b4afc9b30.png)
 
    + Trang kho sản phẩm:
+   
    ![image](https://user-images.githubusercontent.com/101527833/170235602-473d1a71-fd28-40e9-a02e-e71aa199f1bb.png)
 
 
